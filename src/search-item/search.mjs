@@ -18,4 +18,3 @@ const userNames = Object.keys(userDetails)
   }, {});
 
 console.log(userNames);
-console.log("ooops");
